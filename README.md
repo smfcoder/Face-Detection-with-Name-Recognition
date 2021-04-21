@@ -12,7 +12,7 @@ Python face detection with name of the person and training of the dataset to rec
 </ol>
 
 # YouTube Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Id-jWnmqPoE/0.jpg)](https://www.youtube.com/watch?v=Id-jWnmqPoE)
+Link : <a href="https://www.youtube.com/watch?v=Id-jWnmqPoE">https://www.youtube.com/watch?v=Id-jWnmqPoE</a>
 
 
 
