@@ -12,7 +12,8 @@ Python face detection with name of the person and training of the dataset to rec
 </ol>
 
 # YouTube Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id-jWnmqPoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<video src="https://www.youtube.com/Id-jWnmqPoE" ></video>
 
 
 # Output Screen
