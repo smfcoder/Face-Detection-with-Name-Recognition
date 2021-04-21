@@ -1,0 +1,1 @@
+all the trained faces images are saved in this folder of dataset along with the id given to them while training.
